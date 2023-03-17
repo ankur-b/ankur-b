@@ -2,15 +2,10 @@
 <p>
 <h1>Hey, I'm Ankur</h1>
 </p>
-<br>
-
 <h2 align="top">About Me</h2>
 
 ### I program in C++, Python and Swift
-
 ### Btw i use Arch Linux
-
-
 
 <h2 style="block">Github Stats</h2>
 
